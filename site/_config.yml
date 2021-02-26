@@ -1,0 +1,41 @@
+title: Notes
+description: >-
+  Nitish Bhatt notes
+permalink: pretty
+baseurl: /notes
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+theme: just-the-docs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
+
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
+
+color_scheme: custom
+
+aux_links:
+  "Notes on GitHub":
+    - "//github.com/initishbhatt/notes"
+
+defaults:
+  - scope:
+      path: "books"
+    values:
+      parent: Books
+      nav_exclude: true
