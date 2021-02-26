@@ -29,8 +29,43 @@ The rules for the money box to work are -
 - your emergency fund sits in ultra short term or conservative hybrid mutual funds.
 
 ## Building up the protection
+The building blocks for setting up a protection are a good **Health Insurance** and a **Term plan**. Most of us view insurance as an investment instead of life cover which defeats the whole purpose of insurance.
+#### Rule
+- Never consider the work cover provided by employer as sufficent, if you lose job you lose out on the insurance too.
+- Never buy a `ULIP` or a `traditional plan` that every RM and agent tries to lure you in. 
+- When buying a health insurance always check its performance on the metric of `Price`, `benefits`, and `claim`.
+#### It is okay if...
+ - you have a work cover as well as a family floater, for small towns 3 to 7 lacs, 15 lacs for metro cities.
+ - you have a pure term insurance plan bought online to remove agent comission cost.
+ - you should have atleast eight to 10 times the annual take home incone as sum assured on the term plan.
 
 ## Understanding the jargons of investing
+Often people tend to resist investment because of the lack of knowlege or a tendency to keep the liquid money for emergency.
+
+A lot of people invest but fall prey to inefficiency, low returns & high cost due to lack of understanding investments.Unfortunately the financial sector is built in a way to keep the things difficult for a retail investor.The less you understand the more chance that you can be cheated.
+
+**Lets demistify the jargons**
+
+[What are the investment asset classes?]()
+
+**Debt** - A financial product based on borrowing.
+
+**Equity** – Ownership of a business that bring along the risk directly ( stocks ) or indirectly ( Mutual Funds)
+
+**Real Assets** – Includes all tangible investments like gold, real estate.
+
+[What are the different types of funds?]()
+
+**Mutual Funds**
+
+**Debt Funds**
+
+**Liquid Funds**
+
+**Ultra Short Funds**
+
+**Gold Funds**
+
 
 ## Putting it all together
 
