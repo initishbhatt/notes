@@ -7,11 +7,11 @@
 - [Redo the box](#redo-the-box)
 - [Money box killer](#money-box-killer)
 
-We worry about investment the way we worry about our weight.Instead of deiting or investing being a habbit, we only think of them as a remidial measures when our weight or oue bank balance goes too hight or too low.
+We worry about investment the way we worry about our weight.Instead of dieting or investing being a habit, we only think of them as a remedial measures when our weight or oue bank balance goes too hight or too low.
 
 ## Build the Money box
 Our money worries usually centre around finding the best ROI.But there is a lot more to financial fitness than just investments.we need a system and not a single-shot solution.
-The idea of the money box is centered around creating three different buckets/accounts- **Income account, Spend-It account and Invest-it account**(names speak for themselves) that allows yout to streamline your cashflow.
+The idea of the money box is centered around creating three different buckets/accounts- **Income account, Spend-It account and Invest-it account**(names speak for themselves) that allows you to streamline your cashflow.
 #### Rule
 The rules for the money box to work are -
 - As the salary hits your `Income account` you move the monthly expenditure to `Spend-it account` within 30mins or a day at max.
@@ -56,20 +56,35 @@ A lot of people invest but fall prey to inefficiency, low returns & high cost du
 
 [What are the different types of funds?]()
 
-**Mutual Funds**
+**Mutual Funds** - A mutual fund is an investment vehicle formed when an asset management company (AMC) or fund house pools investments from several individuals and institutional investors with common investment objectives. A fund manager, who is a finance professional, manages the pooled investment. The fund manager purchases securities such as stocks and bonds that are in line with the investment mandate.
 
-**Debt Funds**
+**Debt Funds** - Debt funds are mutual funds that invest in fixed income securities like bonds and treasury bills. Gilt fund, monthly income plans (MIPs), short term plans (STPs), liquid funds, and fixed maturity plans (FMPs) are some of the investment options in debt funds. Apart from these categories, debt funds include various funds investing in short term, medium term and long term bonds.
 
-**Liquid Funds**
+**Liquid Funds** - Liquid funds are debt funds that invest in instruments such as certificates of deposit, treasury bills, commercial papers, and other debt securities that mature within 91 days. Liquid funds do not come with a lock-in period. The redemption of liquid funds is processed within 24 hours on business days. Liquid funds possess the lowest interest risk among all classes of debt funds as they mostly invest in fixed-income securities that mature soon.
 
-**Ultra Short Funds**
+**Ultra Short Funds** - Ultra-short-term funds can be likened to be close cousins of liquid funds. These funds offer more liquidity than any other class of funds with long investment horizons.These funds invest in bonds that have an average maturity of about nine months. They buy debt papers that mature in a week to eighteen months.
 
-**Gold Funds**
+**Gold Funds** - Gold funds are open-ended funds which invest in units of a Gold Exchange Traded Fund (ETF). The primary aim of gold funds is to create wealth by making use of the potential of gold as a commodity. It is suitable for investors who have a desire to take exposure to gold. It is convenient to invest in gold via gold funds instead of holding the commodity sensibly.
 
 
 ## Putting it all together
+`Each product you buy must fight for its place in your money box.`
+- When calculating returns always try to benchmark it with the bank FD.
+- Stay away from products that give you returns in absolute numbers – Rs 1 lakh will become Rs 5 lakhs.
+- Mutual funds have two types of taxes that are `short term capital` and `long term capital gains`. Short term capital gain is charged when the equity is sold off within one year and charged with a 15% tax. Long term tax is charged for 10%.
+- Always diversify the investment to reduce the risk.
+- When Investing in equity and debt follow a thumb rule - 100 subtracted by your age, Eg 100 – 30 ( if your age is 30 ) then invest 70 % in equity and 30% in debt.
 
 ## Redo the box
+The `fill it`,`shut it`,`forget it` approach needs a once-in-a-year audit. your situation may change or the product may get better ir worse.Once a year is enought to clean your mminey box.
 
 ## Money box killer
+- spending too much.
+- investing in products without knowledge.
 
+## Takeaways
+- Always invest in the product according to your financial goals.
+- Market is for those who stay invested for a longer duration, patience is the key.
+- Early the start bigger the return corpus.
+- At age forty, you should have three times your annual income as your retirement corpus already.
+- At age retirement, you should atleast have eight times your annual salary as corpus.
