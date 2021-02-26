@@ -87,4 +87,4 @@ The `fill it`,`shut it`,`forget it` approach needs a once-in-a-year audit. your 
 - Market is for those who stay invested for a longer duration, patience is the key.
 - Early the start bigger the return corpus.
 - At age forty, you should have three times your annual income as your retirement corpus already.
-- At age retirement, you should atleast have eight times your annual salary as corpus.
+- At age retirement, you should at-least have eight times your annual salary as corpus.
