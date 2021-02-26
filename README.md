@@ -4,3 +4,9 @@ This is a small step towards taking notes on books I read, talks I watch, articl
 
 ### Books
 * [Let's Talk Money: You've Worked Hard for It, Now Make It Work for You](books/lets-talk-money.md) by **Monika Halan**, 2018.
+
+
+
+
+### Upcoming 
+[Upcoming Summaries](/upcoming.md)
