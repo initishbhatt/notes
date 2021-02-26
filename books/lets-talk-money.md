@@ -1,11 +1,15 @@
 # [Let's Talk Money: You've Worked Hard for It, Now Make It Work for You](https://www.goodreads.com/book/show/40499078-let-s-talk-money)
 
-- [The money order - Build a Money box](#the-money-order)
+- [Build the Money box](#build-the-money-box)
 - [Building up the protection](#building-up-the-protection)
+- [Understanding the jargons of investing](#understanding-the-jargons-of-investing)
+- [Putting it all together](#putting-it-all-together)
+- [Redo the box](#redo-the-box)
+- [Money box killer](#money-box-killer)
 
 We worry about investment the way we worry about our weight.Instead of deiting or investing being a habbit, we only think of them as a remidial measures when our weight or oue bank balance goes too hight or too low.
 
-## The money order - Build a Money box
+## Build the Money box
 Our money worries usually centre around finding the best ROI.But there is a lot more to financial fitness than just investments.we need a system and not a single-shot solution.
 The idea of the money box is centered around creating three different buckets/accounts- **Income account, Spend-It account and Invest-it account**(names speak for themselves) that allows yout to streamline your cashflow.
 #### Rule
@@ -28,7 +32,7 @@ The rules for the money box to work are -
 
 ## Understanding the jargons of investing
 
-## Putting it al together
+## Putting it all together
 
 ## Redo the box
 
