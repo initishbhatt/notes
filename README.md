@@ -5,7 +5,7 @@ Hosted on github pages as -[notes](https://initishbhatt.github.io/notes/) for ea
 
 ### Books
 * [Let's Talk Money: You've Worked Hard for It, Now Make It Work for You](books/lets-talk-money.md) by **Monika Halan**, 2018.
-
+* [IKIGAI — The Japanese Secret to a Long Happy Life](books/ikigai.md) by **Francesc Miralles and Hector Garcia**, 2016. 
 
 
 If you are interested in the books I read, [follow me in Goodreads.](https://www.goodreads.com/user/show/78203680-nitish-bhatt)
